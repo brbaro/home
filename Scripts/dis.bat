@@ -1,0 +1,1 @@
+%LOCALAPPDATA%\Discord\Update.exe --processStart Discord.exe
