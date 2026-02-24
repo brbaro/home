@@ -1,0 +1,1 @@
+irm https://raw.githubusercontent.com/brbaro/home/refs/heads/main/Scripts/up.ps1 | iex
